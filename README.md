@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mireille Irafasha
 - 👀 I’m interested in back-end development, web technologies, and open-source projects.
-- 🌱 I’m currently learning Mondodb,MySQL and Express
+- 🌱 I’m currently learning Mongodb,MySQL and Express
 - 💞️ I’m looking to collaborate on innovative web applications and open-source projects.
 
 - 📫 How to reach me irafashamariemireille@gmail.com
